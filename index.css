@@ -1,0 +1,142 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #212121;
+    color: white;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    width: 100vw;
+    height: 10vh;
+}
+h1{
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin-top: 100px;
+    flex-wrap: wrap;
+}
+
+#one{
+color: white;
+background: green;
+padding: 10px;
+border: 2px solid green;
+height: 80px;
+width: 80px;
+font-size: x-large;
+border-radius: 20px;
+cursor: pointer;
+box-shadow: 0px 0px 10px 0px red;
+}
+
+#one:hover{
+    background-color: #212121;
+    color:green;
+    box-shadow: 0px 0px 10px 0px black;
+    border:4px solid black;
+}
+#two{
+color: white;
+background: green;
+padding: 10px;
+border: 2px solid green;
+height: 80px;
+width: 80px;
+font-size: x-large;
+border-radius: 20px;
+cursor: pointer;
+box-shadow: 0px 0px 10px 0px red;
+}
+
+#two:hover{
+    background-color: #212121;
+    color:green;
+    box-shadow: 0px 0px 10px 0px black;
+    border:4px solid black;
+}
+#three{
+color: white;
+background: green;
+padding: 10px;
+border: 2px solid green;
+height: 80px;
+width: 80px;
+font-size: x-large;
+border-radius: 20px;
+cursor: pointer;
+box-shadow: 0px 0px 10px 0px red;
+}
+
+#three:hover{
+    background-color: #212121;
+    color:green;
+    box-shadow: 0px 0px 10px 0px black;
+    border:4px solid black;
+}
+#four{
+color: white;
+background: green;
+padding: 10px;
+border: 2px solid green;
+height: 80px;
+width: 80px;
+font-size: x-large;
+border-radius: 20px;
+cursor: pointer;
+box-shadow: 0px 0px 10px 0px red;
+}
+
+#four:hover{
+    background-color: #212121;
+    color:green;
+    box-shadow: 0px 0px 10px 0px black;
+    border:4px solid black;
+}
+
+#five{
+    color: white;
+   background:red;
+   padding: 10px;
+   border: 2px solid green;
+   height: 80px;
+   width: 90px;
+   font-size: x-large;
+   border-radius: 20px;
+   cursor: pointer;
+   box-shadow: 0px 0px 10px 0px red;
+}
+
+#five:hover{
+    background-color: #212121;
+    color:green;
+    box-shadow: 0px 0px 10px 0px black;
+    border:4px solid black;
+}
+#h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    width: 100vw;
+    height: 10vh;
+    background: green;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: x-large;
+}
