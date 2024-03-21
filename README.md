@@ -1,2 +1,3 @@
 # loops-demo
-this is simple for loop project
+this is a simple for-loop project
+Author ALI ZAIB
